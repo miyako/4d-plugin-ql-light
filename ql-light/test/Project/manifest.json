@@ -1,0 +1,11 @@
+{
+	"name": "QL",
+	"id": 20000,
+	"commands": [
+		{
+			"theme": "QL",
+			"syntax": "QL Create thumbnail(&T;&T):P"
+      ,"threadSafe": true
+		}
+	]
+}
