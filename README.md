@@ -1,4 +1,5 @@
 # 4d-plugin-ql-light
+Use [QuickLook](https://developer.apple.com/documentation/quicklook) API to generate thumbnails.
 
 ### Platform
 
