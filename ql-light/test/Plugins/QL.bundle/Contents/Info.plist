@@ -9,13 +9,13 @@
 	<key>CFBundleExecutable</key>
 	<string>QL</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.4D.QL</string>
+	<string>com.4D.QL-light</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>4D06</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -39,6 +39,6 @@
 	<key>DTXcodeBuild</key>
 	<string>11C504</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.9</string>
+	<string>10.13</string>
 </dict>
 </plist>
